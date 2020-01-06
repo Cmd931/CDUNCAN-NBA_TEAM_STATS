@@ -3,7 +3,7 @@
 This is my Capstone for the Data Analytics Cohort 1. For my Capstone I analyzed NBA Data from the past five season to see if teams playing back to back games are at a disadvantage. 
 
 
-#The DATA 
+# The DATA 
 For my analyses I used NBA Team stats and schedule data from www.basketball-reference.com and NBA.com 
  I also used detail from  Wikipedia to get info about the arena capacity for each team. 
 The tools I used for my analysis were postgres, excel, and tableau
