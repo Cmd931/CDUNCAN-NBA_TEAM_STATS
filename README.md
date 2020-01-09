@@ -12,3 +12,11 @@ The tools I used for my analysis were postgres, excel, and tableau
  # DATA ISSUE
  I didn't have much trouble getting the data, the majority of the data came from basketball reference which has a CSV option.Once I   created my database and tables in Postgres I was able to import that data into the tables I created. Although pulling the consecutive  dates for each team was a little challenging. 
  
+# Conclusion 
+It`s situational, for teams with winning records overall they performed well in back to back games, but you do see a noticeable difference when they are playing an away game against a team with a losing record. Also when they are playing at home game against a winning team.
+For teams with losing records, you see the biggest difference when they are playing at home against a winning team, and when they're playing away against a losing team. 
+
+# Links for Tableau Dashboards
+https://public.tableau.com/profile/cordero5389#!/vizhome/TeamDash/IndyDash?publish=yes
+
+https://public.tableau.com/profile/cordero5389#!/vizhome/TeamDash/TeamDash?publish=yes
